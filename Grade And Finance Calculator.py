@@ -1,7 +1,3 @@
-
-# Grade and Finance Calculator
-
-A brief description of what this project does and who it's for
 def calculate_letter_grade(average):
     """Determines the letter grade based on the calculated average score."""
     if average >= 90:
@@ -143,4 +139,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
